@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Reid et al., "Single-cell RNA-seq reveals hidden transcriptional variation in malaria parasites". eLife, 2018. http://dx.doi.org/10.7554/eLife.33105
+
 # Plasmodium-single-cell-RNA-seq
 
 This repository contains files related to the publication Single cell RNA-seq reveals hidden transcriptional variation in malaria parasites by Reid et al. 
